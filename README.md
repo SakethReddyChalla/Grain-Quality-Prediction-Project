@@ -9,6 +9,6 @@ This project processes rice grain images to detect and measure individual grains
 📌Built With:
 
 Python - Core programming language.
-OpenCV (or similar) - For image processing and grain detection.
+OpenCV - For image processing and grain detection.
 NumPy - Numerical computing.
 
